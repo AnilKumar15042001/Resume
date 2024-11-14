@@ -1,0 +1,312 @@
+
+1. Job Titles:
+    Automation Tester
+    Test Automation Engineer
+    QA Automation Engineer
+    Software Test Engineer
+    Quality Assurance Engineer
+    Selenium Tester
+    Automation QA Analyst
+    SDET (Software Development Engineer in Test)
+    QA Automation Lead
+    Senior Test Automation Engineer
+
+2. Automation Tools:
+    Selenium WebDriver
+    JUnit
+    TestNG
+    Cucumber (BDD Testing)
+    Katalon Studio
+    Postman (API Testing)
+	
+	3. Programming/Scripting Languages:
+    Java
+	
+	4. Frameworks:
+    BDD (Behavior Driven Development)
+    TDD (Test Driven Development)
+    Page Object Model (POM)
+    Hybrid Framework
+    Data-Driven Testing
+    Keyword-Driven Testing
+	
+	5. Testing Methodologies:
+    Functional Testing
+    Regression Testing
+    Integration Testing
+    Smoke Testing
+    Sanity Testing
+    API Testing
+    Mobile Testing (Appium)
+    Performance Testing
+    Cross-Browser Testing
+    Security Testing
+	
+	6. Test Management Tools:
+    JIRA
+    Zephyr
+    Bugzilla
+    Azure DevOps
+	
+	7. CI/CD & DevOps:
+    Jenkins
+    Docker
+    Git (Version Control)
+    Maven
+    CI/CD Pipeline
+    Continuous Integration
+	
+	9. Soft Skills:
+    Problem Solving
+    Analytical Thinking
+    Team Collaboration
+    Communication Skills
+    Time Management
+    Attention to Detail
+    Leadership Skills
+	
+	10. Agile Methodologies:
+    Agile Testing
+    Scrum
+    Kanban
+    Sprint Planning
+    Daily Stand-ups
+	
+	13. Testing Techniques:
+    Black Box Testing
+    White Box Testing
+    Gray Box Testing
+    Exploratory Testing
+    Automated Regression Testing
+	
+	14. Version Control Systems:
+    Git
+    GitHub
+	
+	16. API Testing Tools:
+    REST Assured
+    Postman
+	
+	
+	
+	
+	Professional Summary
+
+    I am an experienced Automation Tester with expertise in tools such as Selenium WebDriver, JUnit, TestNG, Cucumber (BDD), Katalon Studio, and Postman for API testing, and strong programming knowledge in Java. I have experience in remote execution using Selenium Grid and writing customized XPath and CSS selectors. Proficient in various testing frameworks including BDD, TDD, Page Object Model (POM), Hybrid Frameworks, Data-Driven, and Keyword-Driven Testing, I excel in Functional, Non-Functional, Regression, Integration, Smoke, Sanity, API, Cross-Browser, and Exploratory Testing. I am skilled in using test management tools like JIRA, Zephyr, and Bugzilla, and have strong knowledge of CI/CD pipelines with Jenkins, Docker, and Maven, along with version control systems like Git and GitHub. Additionally, I have expertise in API testing tools such as Postman and REST Assured, and a solid understanding of Agile (Scrum) methodologies with experience in sprint planning, daily stand-ups, and Agile testing practices. I am well-versed in the Software Testing Life Cycle (STLC), including test strategy, planning, test case design, execution, and defect reporting, and have experience generating detailed reports using Extent Reports for comprehensive 3-level reporting.
+	
+	
+	
+	
+	I am a skilled Automation Tester with extensive expertise in both manual and automated testing methodologies. I have hands-on experience with automation tools such as Selenium WebDriver, JUnit, TestNG, Cucumber (BDD Testing), Katalon Studio, and Postman for API testing, and am proficient in Java programming. My background includes performing remote execution using Selenium Grid, crafting customized XPath and CSS selectors, and leveraging testing frameworks like Behavior Driven Development (BDD), Test Driven Development (TDD), Page Object Model (POM), Hybrid Frameworks, Data-Driven Testing, and Keyword-Driven Testing. I am adept at various testing types including Functional, Non-Functional, Regression, Integration, Smoke, Sanity, API, Cross-Browser, Final Regression, and Exploratory Testing. I am experienced with test management tools such as JIRA, Zephyr, and Bugzilla, and skilled in CI/CD tools like Jenkins, Docker, and Maven, with strong knowledge of Git and GitHub for version control. Additionally, I excel in Agile methodologies (Scrum), including sprint planning and daily stand-ups, and am proficient in generating detailed reports with Extent Reports for comprehensive 3-level reporting, integrating testing processes into CI/CD pipelines for seamless continuous integration and delivery.
+	
+	
+	[City], [State] [Postal Code] | 06370344052
+anilautomationtester@gmail.com | [Website]
+
+Testing Types/Methodologies:
+
+    Functional Testing
+    Non-Functional Testing
+    Regression Testing
+    Integration Testing
+    Smoke Testing
+    Sanity Testing
+    Exploratory Testing
+    Ad-hoc Testing
+    User Acceptance Testing (UAT)
+    Performance Testing
+    Load Testing
+    Stress Testing
+    End-to-End Testing
+    Usability Testing
+    Security Testing
+    Compatibility Testing
+    Cross-Browser Testing
+    Mobile Testing
+    Alpha Testing
+    Beta Testing
+
+
+
+Test Management and Planning:
+
+    Test Strategy
+    Test Plan
+    Test Scenario
+    Test Case
+    Requirement Traceability Matrix (RTM)
+    Test Execution
+    Defect Tracking
+    Bug Reporting
+    Root Cause Analysis
+    Quality Assurance (QA)
+    Quality Control (QC)
+    Software Development Life Cycle (SDLC)
+    Software Testing Life Cycle (STLC)
+
+Test Management Tools:
+
+    JIRA
+    Bugzilla
+    Zephyr
+    HP ALM (Quality Center)
+    Azure DevOps
+    Mantis
+
+Soft Skills in Manual Testing:
+
+    Analytical Thinking
+    Problem Solving
+    Attention to Detail
+    Communication Skills
+    Collaboration
+    Time Management
+
+Automation Testing Keywords
+Automation Tools:
+
+    Selenium WebDriver
+    TestNG
+    JUnit
+    Cucumber (BDD Testing)
+    Katalon Studio
+    Appium (Mobile Testing)
+    Postman (API Testing)
+    REST Assured (API Testing)
+    SOAPUI
+    Robot Framework
+    QTP/UFT (Unified Functional Testing)
+    HP LoadRunner (Performance Testing)
+    Jenkins (CI/CD)
+    Docker (Containerization)
+
+Automation Frameworks:
+
+    Behavior Driven Development (BDD)
+    Test Driven Development (TDD)
+    Page Object Model (POM)
+    Data-Driven Testing
+    Keyword-Driven Testing
+    Hybrid Framework
+
+Programming and Scripting Languages:
+
+    Java
+    Python
+    JavaScript
+    Ruby
+    C#
+    Groovy
+    Shell Script
+
+Test Execution:Selenium Grid, Cross-Browser Testing, Parallel Test Execution, Remote Test Execution, Headless Browser Testing
+
+CI/CD & DevOps Tools:
+
+    Jenkins
+    Maven
+    Docker
+    Git
+    GitHub
+    Bamboo
+    Travis CI
+    CircleCI
+    Bitbucket
+
+Version Control Systems:
+
+    Git
+    GitHub
+    Bitbucket
+    GitLab
+
+API Testing Tools:
+
+    Postman
+    REST Assured
+    SOAPUI
+    Swagger
+    Karate
+
+Performance Testing Tools:
+
+    JMeter
+    HP LoadRunner
+    Gatling
+    BlazeMeter
+
+Reports and Logging:
+
+    Extent Reports
+    Allure Reports
+    TestNG Reports
+    Log4j
+
+Test Automation Techniques:
+
+    Data-Driven Testing
+    Keyword-Driven Testing
+    Hybrid Automation
+    Automated Regression Testing
+    Continuous Integration (CI)
+    Continuous Deployment (CD)
+
+Agile Methodologies:
+
+    Agile Testing
+    Scrum
+    Kanban
+    Sprint Planning
+    Daily Stand-ups
+
+Cloud and Virtualization:
+
+    AWS
+    Azure
+    Google Cloud
+    Virtual Machines (VM)
+    VirtualBox
+    Hyper-V
+
+Soft Skills in Automation Testing:
+
+    Analytical Thinking
+    Problem Solving
+    Collaboration
+    Adaptability
+    Attention to Detail
+
+
+Automation Tools: Selenium WebDriver, JUnit, TestNG, Cucumber (BDD), Katalon Studio, Postman (API Testing), REST Assured
+Programming Languages: Java
+Frameworks: Behavior Driven Development (BDD), Test Driven Development (TDD), Page Object Model (POM), Data-Driven Testing, Hybrid Framework, Keyword-Driven Testing
+Testing Methodologies: Functional Testing, Regression Testing, Integration Testing, Smoke Testing, Sanity Testing, API Testing, Performance Testing, Mobile Testing (Appium), Cross-Browser Testing
+Test Management Tools: JIRA, Zephyr, Bugzilla, Azure DevOps
+CI/CD & DevOps: Jenkins, Docker, Git, GitHub, Maven, CI/CD Pipelines, Continuous Integration
+Agile Methodologies: Scrum, Kanban, Sprint Planning, Daily Stand-ups, Agile Testing
+Version Control: Git, GitHub
+API Testing Tools: Postman, REST Assured
+Soft Skills: Problem Solving, Analytical Thinking, Team Collaboration, Communication, Time Management, Leadership
+
+
+Master of Computer Applications (M.C.A.) 11/2021 - 06/2023
+Gandhi Institute for Technological Advancement (GITA). Bhubaneswar, Odisha
+
+
+
+
+Project Overview:
+ Engineered an e-commerce platform with features for intuitive user interface and powerful customization 
+options, enhancing store setups and user satisfaction.
+Role Actions: Test Engineer
+
+Achievements:
+Decreased critical bugs post-deployment by 30%.
+Improved page load times by 20% during high-traffic events.
+Accelerated release cycle by 50% through automated regression testing.
+Technologies Employed: OpenCart, Selenium WebDriver, TestNG, JIRA, JMeter, Postman, Jenkins, MySQL.
+
+
+ANIL KUMAR UTTARKABAT
+Hyderabad,Telangana, 500016 | 6370344052
+aniluttarakabat12345@gmail.com |www.linkedin.com/in/anil-uttarakabat
